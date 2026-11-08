@@ -1,0 +1,34 @@
+{
+ "valid": true,
+ "servo_overlap_mm3": 0.0,
+ "sensor_slide_mm3": 0.0,
+ "beam_overlap_mm3": 0.0,
+ "sweep": {
+  "angles": 13,
+  "overlap_mm3": 0.0,
+  "min_gap_mm": 0.9100000000000001
+ },
+ "torque": {
+  "inertia_kg_m2": 9.912854623055981e-06,
+  "peak_torque_nm": 0.004152286834652837,
+  "share_of_rated": 0.023525704445625142
+ },
+ "parts": {
+  "bracket": {
+   "size_mm": [
+    60.0,
+    34.0,
+    19.9
+   ],
+   "mass_g": 12.624216920343184
+  },
+  "cradle": {
+   "size_mm": [
+    49.5,
+    34.5,
+    29.0
+   ],
+   "mass_g": 7.207585889591271
+  }
+ }
+}
